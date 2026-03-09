@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Entregable</string>
+    <string name="titulo_registro">Registro de Residuos</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="hint_tipo_residuo">Tipo de residuo</string>
+    <string name="hint_cantidad">Cantidad</string>
+    <string name="mensaje_guardado">Registro guardado correctamente</string>
+</resources>
